@@ -22,3 +22,5 @@ if __name__ == "__main__":
 ##        print(student2)
 
 ##        print(Student.teacher)  
+
+##        print(student2.teacher)
