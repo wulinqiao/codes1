@@ -26,5 +26,3 @@ if __name__ == "__main__":
     xm.cool_wind()
     xm.warm_wind()
     xm.swing_l_r()
-
-##    ha = haier_AC()
