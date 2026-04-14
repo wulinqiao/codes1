@@ -21,4 +21,7 @@ if __name__ == "__main__":
 
 ##        print(student2)
 
-##        print(Student.teacher)  
+##        print(Student.teacher) 
+
+##        print(student1.teacher)
+ 
