@@ -15,3 +15,6 @@ if __name__ == "__main__":
         print(student1)
         print(student2)
         student1.teacher = "Ms. Johnson"
+
+
+##        print(student1)
