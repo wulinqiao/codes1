@@ -22,3 +22,5 @@ if __name__ == "__main__":
 ##        print(student2)
 
 ## Output:
+
+## name: Alice, teacher: Ms. Johnson, age: 20, grade: A
